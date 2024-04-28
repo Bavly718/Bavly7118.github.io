@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.kha{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    padding: 5px;
+    height: 45px;
+    margin-left: 100PX;
+    margin-right:100px ;
+
+}
+.photo{
+    height: 35px;
+  
+}
+.clubsite{
+    margin-top: 10px;
+    font-size: 1rem;
+    line-height: 1.8rem;
+    font-family:PremierSans-Heavy,Arial,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: 400;
+    color: #76766f;}
+
+ .xxx a{
+    
+        text-decoration: none;
+        color: #fff;
+        font-size: 30px;
+    }
+.xxx{
+        background-color: rgb(55,0,60);
+        display: flex;
+        font-family: PremierSans-Heavy,Arial,Helvetica Neue,Helvetica,sans-serif;
+        align-items: center;
+        height: 60px;
+    }
+.xxx nav{
+       
+        width: 10%;
+    }
+.xxx nav img{
+        height: 115px;
+        margin: 8px;
+    }
+.xxx ul{
+        width: 60%;
+        display: flex;
+        
+        align-items: center;
+        list-style: none;  
+        margin-left: 30px;  
+    }
+.xxx ul li{
+        margin: 40px;
+    }
+.xxx .button {
+        font-family:PremierSans-Heavy,Arial,Helvetica Neue,Helvetica,sans-serif;
+        height: 35px;
+      margin-left: 40px;
+      color: #fff;
+      border-radius: 8px;
+    }
+.xxx .button a{
+        color: rgb(55,0,60);
+    }
+.xnav3 .navv3 a{
+    text-decoration: none;
+}
+.xnav3 {
+    font-family: PremierSans-Heavy,Arial,Helvetica Neue,Helvetica,sans-serif;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    list-style: none;
+}
+.xnav3 .navv3{
+    height: 30px;
+    
+    margin: 15px;
+    padding: 5px;
+}
+.nav3{
+    height: 60px;
+    background-color:#fff;
+    }
+section{
+    background-color: #e90052;
+
+}
+h2{
+    
+    height: 60px;
+    margin: 15px;
+    padding: 170px;
+    float: left;
+}
+table {
+    align-items:center;
+    font-size:30px;
+    text-align:center;
+    position:relative;
+    left:0px;
+    float: left;
+    margin: 100px;
+    border: 15px solid;
+    border-color: rgb(56,0,60);
+    border-radius: 12px;
+}
+tr{
+    background-color: #00ff85;
+    padding: 0px;
+
+}
+td{
+    padding: 0px;
+}
+
