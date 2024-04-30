@@ -1,0 +1,205 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.kha{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    padding: 5px;
+    height: 45px;
+    margin-left: 100PX;
+    margin-right:100px ;
+
+}
+.photo{
+    height: 35px;
+  
+}
+.clubsite{
+    margin-top: 10px;
+    font-size: 1rem;
+    line-height: 1.8rem;
+    font-family:PremierSans-Heavy,Arial,Helvetica Neue,Helvetica,sans-serif;
+    font-weight: 400;
+    color: #76766f;
+    
+}
+.xxx a{
+    
+    text-decoration: none;
+    color: #fff;
+    font-size: 30px;
+}
+.xxx{
+    background-color: rgb(55,0,60);
+    display: flex;
+    font-family: PremierSans-Heavy,Arial,Helvetica Neue,Helvetica,sans-serif;
+    align-items: center;
+    height: 60px;
+}
+.xxx nav{
+   
+}
+.xxx nav img{
+    height: 115px;
+    margin: 8px;
+}
+.xxx ul{
+    width: 65%;
+    display: flex;
+    align-items: center;
+    list-style: none;  
+    margin-left: 20px;  
+    
+}
+.xxx ul li{
+    margin: 30px;
+}
+.xxx ul li a{
+    padding: 6px;
+    border-radius: 15px;
+}
+.xxx ul li a:hover{
+    background-color: #fff;
+    color: rgb(55,0,60);
+}
+.xxx h4 a{
+    padding: 6px;
+    border-radius: 15px;
+}
+.xxx h4 a:hover{
+    background-color: #fff;
+    color: rgb(55,0,60);
+}
+.xxx .button {
+    font-family:PremierSans-Heavy,Arial,Helvetica Neue,Helvetica,sans-serif;
+    height: 35px;
+  margin-left: 30px;
+  color: #fff;
+  border-radius: 8px;
+}
+.xxx .button a{
+    color: rgb(55,0,60);
+    font-size: 25px;
+}
+.xnav3 {
+    font-family: PremierSans-Heavy,Arial,Helvetica Neue,Helvetica,sans-serif;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    list-style: none;
+}
+ .xnav3 .navv3{
+    height: 30px;
+    margin: 15px;
+    padding: 5px;
+}
+.nav3{
+    height: 60px;
+    background-color:#fff;
+
+}
+.total{
+   text-align: center;
+   
+   height: 2500px;
+}
+.video1{
+    height: 25%;
+    background-color: rgb(55,0,60);
+   
+}
+.video2{
+    height: 25%;
+}
+.video3{
+    height: 25%;
+    background-color: rgb(55,0,60);
+}
+.video4{
+    height: 25%;
+}
+.video1 video{
+    height: 400px;
+    margin-top: 40px;
+    border-radius: 30px;
+}
+.video2 video{
+    height: 400px;
+    margin-top: 40px;
+    border-radius: 30px;
+}
+.video3 video{
+    height: 400px;
+    margin-top: 40px;
+    border-radius: 30px;
+}
+.video4 video{
+    height: 400px;
+    
+    margin-top: 40px;
+    border-radius: 30px;
+    
+}
+
+
+
+
+.xxxx a{
+    
+    text-decoration: none;
+    color: #fff;
+    font-size: 50px;
+}
+.xxxx{
+    background-color: rgb(55,0,60);
+    display: flex;
+    font-family: PremierSans-Heavy,Arial,Helvetica Neue,Helvetica,sans-serif;
+    align-items: start;
+    height: 500px;
+}
+.xxxx ul{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    list-style: none;  
+    margin: 30px;  
+}
+.xxxx ul li{
+    margin: 30px;
+}
+.fooo{
+    color: #fff;
+    margin-top: 30px;
+    font-size: ;
+    font-family: PremierSans-Heavy,Arial,Helvetica Neue,Helvetica,sans-serif;;
+}
+.fooo p{
+    margin: 12px;
+}
+.video2 p{
+    font-size: 30px;
+    color: rgb(55,0,60);
+    padding: 15px;
+    font-family: PremierSans-Heavy,Arial,Helvetica Neue,Helvetica,sans-serif;
+}
+.video1 p{
+    font-size: 30px;
+    color: #fff;
+    padding: 15px;
+    font-family: PremierSans-Heavy,Arial,Helvetica Neue,Helvetica,sans-serif;
+}
+.video3 p{
+    font-size: 30px;
+    color: #fff;
+    padding: 15px;
+    font-family: PremierSans-Heavy,Arial,Helvetica Neue,Helvetica,sans-serif;
+}
+.video4 p{
+    font-size: 30px;
+    color: rgb(55,0,60);
+    padding: 15px;
+    font-family: PremierSans-Heavy,Arial,Helvetica Neue,Helvetica,sans-serif;
+}
+
