@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="style.css">
+    <title> Premier League</title>
+
+</head>
+<body>
+    <div class="background"></div>
+    <header class="header">
+        <nav class="navbar">
+            <a href="#">Home</a>
+            <a href="#">Table </a>
+            <a href="#">Store </a>
+            <a href="#">Contact US </a>
+        </nav>
+        <form action="#" class="search-bar">
+            <input type="text" placeholder="Search...">
+            <button  type="submit"><i class='bx bx-search'></i></button>
+        </form>
+    </header>
+
+    
+    <div class="container">
+        <div class="content">
+            <h2> <img src="D:\my_IT_project\images\p3605402_b_h8_ar22.jpg" alt="">Premier League</h2>
+
+            <div class="text-sci">
+               <h2 class="logo">WELCOME!<br><span>IN PREMIER LEAGUE</span></h2>
+                <p>Welcome to the most fun and exciting sports league in the world</p>
+                <div class="social-icons">
+                    
+                    <a href="#"><i class='bx bxl-facebook'></i></a>
+                    
+                    <a href="#"><i class='bx bxl-youtube' ></i></a>
+                    
+                    <a href="#"><i class='bx bxl-twitter' ></i></a>
+                    
+                    <a href="#"><i class='bx bxl-instagram' ></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="logreg-box" >
+            <div class="form-box login">
+                <form action="#" >
+                    <h2>Sign In</h2>
+
+                    <div class="input-box">
+                        <span class="icon"><i class='bx bxs-envelope'></i></span>
+                        <input type="email" id="email" required>
+                        <label>Email</label>
+                    </div>
+
+                    <div class="input-box">
+                        <span class="icon"><i class='bx bxs-lock-alt'></i></span>
+                        <input type="password" id="password" required >
+                        <label>Password</label>
+                    </div>
+
+                    <div class="remember-forget">
+                        <label><input type="checkbox">Remember me</label>
+                        <a href="#">Forget password ?</a>
+                    </div>
+
+             
+                <button class="btn" type="submit" aria-required="true" onclick="">login</button>
+
+                </a>
+                <div class="login-register">
+                    <p>Don't have an account ? <a href="#" class="register-link">Sign UP</a></p>
+                </div>
+                </form>
+            </div>
+
+            <div class="form-box register">
+                <form onsubmit="myfunc(event)">
+                    <h2>Sign Up</h2>
+
+                    <div class="input-box">
+                        <span class="icon"><i class='bx bxs-user'></i></span>
+                        <input type="text" id="full_name" required>
+                        <label>Username</label>
+                    </div>
+
+                    <div class="input-box">
+                        <span class="icon"><i class='bx bxs-envelope'></i></span>
+                        <input type="email" id="new_email" required>
+                        <label>Email</label>
+                    </div>
+
+                    <div class="input-box">
+                        <span class="icon"><i class='bx bxs-lock-alt'></i></span>
+                        <input type="password" id="new_password" required>
+                        <label>Password</label>
+                    </div>
+
+                    <div class="remember-forget">
+                        <label><input type="checkbox">I agree to the terms & conditions</label>
+                        
+                    </div>
+
+                <button class="btn" type="submit" >Sign Up</button>
+                <div class="login-register">
+                    <p>Already have an account ? <a href="#" class="login-link" >Sign In</a></p>
+                </div>
+                </form>
+            </div>
+        </div>
+        <script src="index.js"></script>
+        
+</body>
+</html>
